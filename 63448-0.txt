@@ -1,54 +1,25 @@
-﻿The Project Gutenberg eBook, Madame Claire, by Susan Ertz
+﻿The Project Gutenberg eBook of Madame Claire, by Susan Ertz
 
-
-This eBook is for the use of anyone anywhere in the United States and most
-other parts of the world at no cost and with almost no restrictions 
-whatsoever.  You may copy it, give it away or re-use it under the terms of
-the Project Gutenberg License included with this eBook or online at 
-www.gutenberg.org.  If you are not located in the United States, you'll have
-to check the laws of the country where you are located before using this ebook.
-
-
-
+This eBook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this eBook or online at
+www.gutenberg.org. If you are not located in the United States, you
+will have to check the laws of the country where you are located before
+using this eBook.
 
 Title: Madame Claire
 
-
 Author: Susan Ertz
 
-
-
-Release Date: October 13, 2020  [eBook #63448]
+Release Date: October 13, 2020 [eBook #63448]
+[Most recently updated: April 9, 2023]
 
 Language: English
 
-Character set encoding: UTF-8
+Produced by: Tim Lindell, Robert J. Homa, and the Online Distributed Proofreading Team
 
-
-***START OF THE PROJECT GUTENBERG EBOOK MADAME CLAIRE***
-
-
-E-text prepared by Tim Lindell, Robert J. Homa, and the Online Distributed
-Proofreading Team (http://www.pgdp.net) from page images generously made
-available by Internet Archive (https://archive.org)
-
-
-
-
-Note: Images of the original pages are available through
-      Internet Archive. See
-      https://archive.org/details/madameclaire00ertz_1
-
-
-Transcriber's note:
-
-      Text enclosed by underscores is in italics (_italics_).
-
-      Text enclosed by equal signs is in bold face (=bold=).
-
-      Text enclosed by plus signs is in small captals
-      (+Small-caps+).
-
+*** START OF THE PROJECT GUTENBERG EBOOK MADAME CLAIRE ***
 
 
 
@@ -136,7 +107,7 @@ Gregory--or Madame Claire, as her grandchildren called her--she found
 herself at the age of seventy a candidate for admission. It was out of
 the question for her to keep up the big house in Prince's Gardens after
 her only son Eric married. Live with him she would not, valuing his love
-for her and his own happiness too much to risk a m�nage-�-trois with a
+for her and his own happiness too much to risk a ménage-à-trois with a
 daughter-in-law--even a daughter-in-law of whom at that time she
 approved. For Madame Claire not only faced facts squarely, but she had a
 way of seeing under and around them as well, which greatly endeared her
@@ -270,7 +241,7 @@ came into Eric's possession, and finally into the writer's.
     dream I was nearly eighty if it were not for the evidence of the
     family tree. That did not please me. I take as much pride in being
     nearly eighty as I once took in being sixteen. After all, being an
-    old woman is my r�le at present, and naturally it is a r�le I wish
+    old woman is my rôle at present, and naturally it is a rôle I wish
     to play well. Perhaps you'll say that I would accept old age less
     philosophically if I were blind, or deaf, or bedridden. I wonder?
     Even without all one's faculties, surely there are thoughts and
@@ -1119,14 +1090,14 @@ CHAPTER IV
     "_I have made a discovery of late. At least I think it is a
     discovery. This is it. I believe that while the majority of men are
     content to be merely themselves, the majority of women are busy
-    playing some r�le or other that takes their fancy or that
+    playing some rôle or other that takes their fancy or that
     circumstances suggest. I think that most women are forever
     conscious of an audience. I shall never forget a girl I once
     knew--she would be a very old woman now--who pretended to have lost
     her lover in the Crimean War. I knew--for she made me her
     confidante--that it was a quite imaginary lover, and that she had
     invented him to make people think her inconsolable, instead of
-    unsought, as was actually the case. So for years she played the r�le
+    unsought, as was actually the case. So for years she played the rôle
     of a bereaved woman, and if she is alive she is playing it yet.
     Every word, every action was suited to the part, and eventually she
     must of course have come to believe it herself. When she talked to a
@@ -1143,15 +1114,15 @@ CHAPTER IV
     actress playing her part._
 
     "_Take the case of Louise--a weak nature overshadowed by a stronger
-    one. What does she do? Creates a r�le for herself--the r�le of a
+    one. What does she do? Creates a rôle for herself--the rôle of a
     patient, slighted woman, married to a selfish and exacting man. Why?
     Seen under the microscope we might discover it to be an attempt to
     attract notice._
 
     "_Take the case of my dear Judy. Most of her friends are married.
     She, being very fastidious, and finding that falling in love is at
-    present quite beyond her, creates a little r�le for herself--the
-    r�le of a very modern, independent girl who finds that sort of
+    present quite beyond her, creates a little rôle for herself--the
+    rôle of a very modern, independent girl who finds that sort of
     love unnecessary to her happiness._
 
     "_Then there is Millicent. She too is playing a part, though she
@@ -1163,12 +1134,12 @@ CHAPTER IV
     Pendleton that if I had not a good memory for faces I would find it
     hard to distinguish her from all the other Pendletons._
 
-    "_And then there was Connie--poor Connie! Her r�le was that of a
+    "_And then there was Connie--poor Connie! Her rôle was that of a
     woman of great emotions, of devastating loves--a sort of Camille.
     But underneath it I imagine and hope is still the simple, credulous
     woman who looked for happiness where happiness was not._
 
-    "_'And,' perhaps you'll ask, 'don't men make r�les for themselves?'
+    "_'And,' perhaps you'll ask, 'don't men make rôles for themselves?'
     Rarely; and when they do they are insufferable._
 
     "_I am very tired and must stop. Tell me who else is at Cannes._
@@ -1197,7 +1168,7 @@ that time first capturing London and Paris with his marvelous playing.
 
 The blow had nearly broken her father, but Madame Claire was made of
 sterner stuff, and had long observed tendencies in her lovely daughter
-which promised to lead to this very d�nouement. Connie Gregory had one
+which promised to lead to this very dénouement. Connie Gregory had one
 of those entirely beautiful faces which seem so at variance with the
 tragedies they evoke. She had the prettiest and weakest mouth, and the
 most irresistible blue eyes that ever gave delight to a painter of
@@ -1987,10 +1958,10 @@ spare the time to go to Paris, I think it would be a good thing."
 
 "I think I can guess," answered her grandmother. "Years ago, before the
 children were grown up, we used to go and stay at a little private hotel
-off the Avenue de la Grande Arm�e. In the autumn I recommended it to a
+off the Avenue de la Grande Armée. In the autumn I recommended it to a
 friend of your mother's, and she was delighted with it. Judging from her
 description, I don't think it can have changed much. She told me that
-the granddaughter of the old Madame Perit�t remembered me perfectly and
+the granddaughter of the old Madame Peritôt remembered me perfectly and
 said that Connie, whom she described as 'la belle Madame,' often went
 there when she wished to be quiet. I feel sure she would wish to be
 quiet now, and I believe that if Eric goes there he will find her."
@@ -2057,11 +2028,11 @@ CHAPTER VIII
 
 
 Eric drove at once to the little hotel off the Avenue de la Grande
-Arm�e, and made himself known. He had wired for a room at the Crillon,
+Armée, and made himself known. He had wired for a room at the Crillon,
 preferring not to stay too near Connie lest he should find her
 surrounded by sympathetic friends. He dreaded her friends.
 
-The granddaughter of old Madame Perit�t, a pleasant-faced woman named
+The granddaughter of old Madame Peritôt, a pleasant-faced woman named
 Le Blanc, gave him a cordial welcome, asked immediately after Madame
 Claire and then told him in answer to his question that Madame la
 Comtesse was resting, but would undoubtedly see her brother. Who
@@ -2080,7 +2051,7 @@ another almost exactly like the first, except that the dress of the
 shepherdess which had been blue with pink flowers, was now pink with
 blue flowers. There it stood, just where their guilty hands had placed
 it, so many years ago, and he could not resist taking it off the
-mantelpiece and examining it. It was one of old Madame Perit�t's most
+mantelpiece and examining it. It was one of old Madame Peritôt's most
 prized possessions, and how they laughed when they realized that she had
 never noticed the difference! It might easily have met the fate just
 then of its unlucky predecessor, for he nearly dropped it, so suddenly
@@ -2744,7 +2715,7 @@ life--though why they call it that I can't think; there's nothing less
 simple than trying to live on nothing a year. But what I wish to point
 out to you is that Major Crosby, to begin with, is not a marrying man."
 
-"Oh, Lord!" groaned Noel, "what a clich�! How can a man be a marrying
+"Oh, Lord!" groaned Noel, "what a cliché! How can a man be a marrying
 man until he marries?"
 
 "To put it into words of one syllable, Major Crosby is not the sort of
@@ -3181,7 +3152,7 @@ half-past eight, and there was a possibility that Eric would be late.
 They usually dined at eight, but the Plumage Bill--or was it the
 Divorce Reform Bill?--would keep him. She did her hair in a way that he
 had once admired, and put on a blue tea-gown that he had called
-charming. In fact, she took far greater pains over her r�le as injured
+charming. In fact, she took far greater pains over her rôle as injured
 wife than she had ever taken before. And saw no humor in it either.
 
 Eric thought he had never seen her look so well. Take away her coldness
@@ -3284,7 +3255,7 @@ than a dull actuality.
 But there was something reassuring about the way the homely Dawson
 opened the door to him and took his hat and coat. She received him like
 an old friend and smiled as though she shared some secret with him. The
-sight of Judy and his hostess bending over plans for a Pis� de Terre
+sight of Judy and his hostess bending over plans for a Pisé de Terre
 cottage to be built for Judy on Madame Claire's little place in Sussex,
 also gave him courage. He loved plans, and was soon making suggestions
 and alterations in a way that, Judy said, was as domineering as an
@@ -3808,7 +3779,7 @@ Who is he? What is he?"
 Noel gave an amused chuckle.
 
 "Connie, you really are a joy. _You_ to ask 'Who is he? What is he?'
-Don't you try to take a leaf out of mother's book. It isn't your r�le."
+Don't you try to take a leaf out of mother's book. It isn't your rôle."
 
 "Judy's my niece, after all," protested Connie. "Isn't it natural that
 I should be interested?"
@@ -3901,7 +3872,7 @@ wait."
 Her lips trembled.
 
 "Cheer up!" he said. "I'll sit here all day, if you'll order another
-Entre C�te. Have you ever noticed what queerly shaped heads some of
+Entre Côte. Have you ever noticed what queerly shaped heads some of
 these fellows have? If I were a woman, I'd study phrenology a bit.
 That's where you have the best of us. You women may--and I expect often
 do--possess heads a congenital idiot would be proud of, but we never
@@ -4234,7 +4205,7 @@ CHAPTER XV
     I believe that if Spiritualism were rightly understood, it would
     fuse all religions and all sects. I need hardly tell you that the
     Spiritualism I mean does not depend on knockings and rappings, and
-    the horrible fake-s�ances of the mercenary minded. Some day I must
+    the horrible fake-séances of the mercenary minded. Some day I must
     talk to you about this. I have said enough here, perhaps too much;
     but I wanted to tell you of the thing that has meant so much to me._
 
@@ -5591,7 +5562,7 @@ interesting type. Egotistic. But powerful. I knew he'd get on. We had
 some long talks, I remember. He liked me for some reason. I was able to
 do him a good turn, I think, but I forget what it was."
 
-"His �sthetic or beauty-loving side is utterly undeveloped," laughed
+"His æsthetic or beauty-loving side is utterly undeveloped," laughed
 Judy. "Hence those clothes. He's rather terrible in a way, and yet I
 dare say I might like him if I knew him better."
 
@@ -7798,7 +7769,7 @@ and it is now a quarter to that hour. If you will excuse me----"
 Noel, "I want you to know that I am going to Germany at nine o'clock
 to-morrow morning. Here are my passports."
 
-Touch�! There was not the slightest doubt about it now. Petrovitch was
+Touché! There was not the slightest doubt about it now. Petrovitch was
 on his feet, his heavy head down like that of a charging buffalo, his
 brows drawn together, his lips thrust out.
 
@@ -8361,7 +8332,7 @@ Madame Claire was writing to Noel.
     at her fate, or from dwelling on her inexplicable infatuation for
     Petrovitch, who is in America. For she is not cured of that, nor
     will she ever be. He is, as you once said, her hero for life, spots
-    and all. That is the r�le she has chosen for herself, and she will
+    and all. That is the rôle she has chosen for herself, and she will
     play it to the end. I am longing to know whether or not you have
     been able to find any traces of Freda. I sometimes feel that you
     and I played a not altogether worthy part in that affair, but it
@@ -8539,7 +8510,7 @@ By MELVILLE DAVISSON POST
 How would Christ act if He appeared in the world today? Through Mr.
 Post's story of the Kentucky mountains runs an impressive allegory.
 
-=ABB� PIERRE=
+=ABBÉ PIERRE=
 
 By JAY WILLIAM HUDSON
 
@@ -8749,88 +8720,83 @@ Page 288 nickname.
 
 
 
-***END OF THE PROJECT GUTENBERG EBOOK MADAME CLAIRE***
 
-
-******* This file should be named 63448-0.txt or 63448-0.zip *******
-
-
-This and all associated files of various formats will be found in:
-http://www.gutenberg.org/dirs/6/3/4/4/63448
-
+*** END OF THE PROJECT GUTENBERG EBOOK MADAME CLAIRE ***
 
 Updated editions will replace the previous one--the old editions will
 be renamed.
 
 Creating the works from print editions not protected by U.S. copyright
 law means that no one owns a United States copyright in these works,
-so the Foundation (and you!) can copy and distribute it in the United
-States without permission and without paying copyright
+so the Foundation (and you!) can copy and distribute it in the
+United States without permission and without paying copyright
 royalties. Special rules, set forth in the General Terms of Use part
 of this license, apply to copying and distributing Project
-Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
+Gutenberg™ electronic works to protect the PROJECT GUTENBERG™
 concept and trademark. Project Gutenberg is a registered trademark,
-and may not be used if you charge for the eBooks, unless you receive
-specific permission. If you do not charge anything for copies of this
-eBook, complying with the rules is very easy. You may use this eBook
-for nearly any purpose such as creation of derivative works, reports,
-performances and research. They may be modified and printed and given
-away--you may do practically ANYTHING in the United States with eBooks
-not protected by U.S. copyright law. Redistribution is subject to the
-trademark license, especially commercial redistribution.
+and may not be used if you charge for an eBook, except by following
+the terms of the trademark license, including paying royalties for use
+of the Project Gutenberg trademark. If you do not charge anything for
+copies of this eBook, complying with the trademark license is very
+easy. You may use this eBook for nearly any purpose such as creation
+of derivative works, reports, performances and research. Project
+Gutenberg eBooks may be modified and printed and given away--you may
+do practically ANYTHING in the United States with eBooks not protected
+by U.S. copyright law. Redistribution is subject to the trademark
+license, especially commercial redistribution.
 
 START: FULL LICENSE
 
 THE FULL PROJECT GUTENBERG LICENSE
 PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
 
-To protect the Project Gutenberg-tm mission of promoting the free
+To protect the Project Gutenberg™ mission of promoting the free
 distribution of electronic works, by using or distributing this work
-(or any other work associated in any way with the phrase "Project
-Gutenberg"), you agree to comply with all the terms of the Full
-Project Gutenberg-tm License available with this file or online at
+(or any other work associated in any way with the phrase “Project
+Gutenberg”), you agree to comply with all the terms of the Full
+Project Gutenberg™ License available with this file or online at
 www.gutenberg.org/license.
 
 Section 1. General Terms of Use and Redistributing Project
-Gutenberg-tm electronic works
+Gutenberg™ electronic works
 
-1.A. By reading or using any part of this Project Gutenberg-tm
+1.A. By reading or using any part of this Project Gutenberg™
 electronic work, you indicate that you have read, understand, agree to
 and accept all the terms of this license and intellectual property
 (trademark/copyright) agreement. If you do not agree to abide by all
 the terms of this agreement, you must cease using and return or
-destroy all copies of Project Gutenberg-tm electronic works in your
+destroy all copies of Project Gutenberg™ electronic works in your
 possession. If you paid a fee for obtaining a copy of or access to a
-Project Gutenberg-tm electronic work and you do not agree to be bound
+Project Gutenberg™ electronic work and you do not agree to be bound
 by the terms of this agreement, you may obtain a refund from the
 person or entity to whom you paid the fee as set forth in paragraph
 1.E.8.
 
-1.B. "Project Gutenberg" is a registered trademark. It may only be
+1.B. “Project Gutenberg” is a registered trademark. It may only be
 used on or associated in any way with an electronic work by people who
 agree to be bound by the terms of this agreement. There are a few
-things that you can do with most Project Gutenberg-tm electronic works
+things that you can do with most Project Gutenberg™ electronic works
 even without complying with the full terms of this agreement. See
 paragraph 1.C below. There are a lot of things you can do with Project
-Gutenberg-tm electronic works if you follow the terms of this
-agreement and help preserve free future access to Project Gutenberg-tm
+Gutenberg™ electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg™
 electronic works. See paragraph 1.E below.
 
-1.C. The Project Gutenberg Literary Archive Foundation ("the
-Foundation" or PGLAF), owns a compilation copyright in the collection
-of Project Gutenberg-tm electronic works. Nearly all the individual
+1.C. The Project Gutenberg Literary Archive Foundation (“the
+Foundation” or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg™ electronic works. Nearly all the individual
 works in the collection are in the public domain in the United
 States. If an individual work is unprotected by copyright law in the
 United States and you are located in the United States, we do not
 claim a right to prevent you from copying, distributing, performing,
 displaying or creating derivative works based on the work as long as
 all references to Project Gutenberg are removed. Of course, we hope
-that you will support the Project Gutenberg-tm mission of promoting
-free access to electronic works by freely sharing Project Gutenberg-tm
+that you will support the Project Gutenberg™ mission of promoting
+free access to electronic works by freely sharing Project Gutenberg™
 works in compliance with the terms of this agreement for keeping the
-Project Gutenberg-tm name associated with the work. You can easily
+Project Gutenberg™ name associated with the work. You can easily
 comply with the terms of this agreement by keeping this work in the
-same format with its attached full Project Gutenberg-tm License when
+same format with its attached full Project Gutenberg™ License when
 you share it without charge with others.
 
 1.D. The copyright laws of the place where you are located also govern
@@ -8839,17 +8805,17 @@ in a constant state of change. If you are outside the United States,
 check the laws of your country in addition to the terms of this
 agreement before downloading, copying, displaying, performing,
 distributing or creating derivative works based on this work or any
-other Project Gutenberg-tm work. The Foundation makes no
+other Project Gutenberg™ work. The Foundation makes no
 representations concerning the copyright status of any work in any
-country outside the United States.
+country other than the United States.
 
 1.E. Unless you have removed all references to Project Gutenberg:
 
 1.E.1. The following sentence, with active links to, or other
-immediate access to, the full Project Gutenberg-tm License must appear
-prominently whenever any copy of a Project Gutenberg-tm work (any work
-on which the phrase "Project Gutenberg" appears, or with which the
-phrase "Project Gutenberg" is associated) is accessed, displayed,
+immediate access to, the full Project Gutenberg™ License must appear
+prominently whenever any copy of a Project Gutenberg™ work (any work
+on which the phrase “Project Gutenberg” appears, or with which the
+phrase “Project Gutenberg” is associated) is accessed, displayed,
 performed, viewed, copied or distributed:
 
   This eBook is for the use of anyone anywhere in the United States and
@@ -8857,112 +8823,112 @@ performed, viewed, copied or distributed:
   restrictions whatsoever. You may copy it, give it away or re-use it
   under the terms of the Project Gutenberg License included with this
   eBook or online at www.gutenberg.org. If you are not located in the
-  United States, you'll have to check the laws of the country where you
-  are located before using this ebook.
+  United States, you will have to check the laws of the country where
+  you are located before using this eBook.
 
-1.E.2. If an individual Project Gutenberg-tm electronic work is
+1.E.2. If an individual Project Gutenberg™ electronic work is
 derived from texts not protected by U.S. copyright law (does not
 contain a notice indicating that it is posted with permission of the
 copyright holder), the work can be copied and distributed to anyone in
 the United States without paying any fees or charges. If you are
-redistributing or providing access to a work with the phrase "Project
-Gutenberg" associated with or appearing on the work, you must comply
+redistributing or providing access to a work with the phrase “Project
+Gutenberg” associated with or appearing on the work, you must comply
 either with the requirements of paragraphs 1.E.1 through 1.E.7 or
-obtain permission for the use of the work and the Project Gutenberg-tm
+obtain permission for the use of the work and the Project Gutenberg™
 trademark as set forth in paragraphs 1.E.8 or 1.E.9.
 
-1.E.3. If an individual Project Gutenberg-tm electronic work is posted
+1.E.3. If an individual Project Gutenberg™ electronic work is posted
 with the permission of the copyright holder, your use and distribution
 must comply with both paragraphs 1.E.1 through 1.E.7 and any
 additional terms imposed by the copyright holder. Additional terms
-will be linked to the Project Gutenberg-tm License for all works
+will be linked to the Project Gutenberg™ License for all works
 posted with the permission of the copyright holder found at the
 beginning of this work.
 
-1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg™
 License terms from this work, or any files containing a part of this
-work or any other work associated with Project Gutenberg-tm.
+work or any other work associated with Project Gutenberg™.
 
 1.E.5. Do not copy, display, perform, distribute or redistribute this
 electronic work, or any part of this electronic work, without
 prominently displaying the sentence set forth in paragraph 1.E.1 with
 active links or immediate access to the full terms of the Project
-Gutenberg-tm License.
+Gutenberg™ License.
 
 1.E.6. You may convert to and distribute this work in any binary,
 compressed, marked up, nonproprietary or proprietary form, including
 any word processing or hypertext form. However, if you provide access
-to or distribute copies of a Project Gutenberg-tm work in a format
-other than "Plain Vanilla ASCII" or other format used in the official
-version posted on the official Project Gutenberg-tm web site
+to or distribute copies of a Project Gutenberg™ work in a format
+other than “Plain Vanilla ASCII” or other format used in the official
+version posted on the official Project Gutenberg™ website
 (www.gutenberg.org), you must, at no additional cost, fee or expense
 to the user, provide a copy, a means of exporting a copy, or a means
-of obtaining a copy upon request, of the work in its original "Plain
-Vanilla ASCII" or other form. Any alternate format must include the
-full Project Gutenberg-tm License as specified in paragraph 1.E.1.
+of obtaining a copy upon request, of the work in its original “Plain
+Vanilla ASCII” or other form. Any alternate format must include the
+full Project Gutenberg™ License as specified in paragraph 1.E.1.
 
 1.E.7. Do not charge a fee for access to, viewing, displaying,
-performing, copying or distributing any Project Gutenberg-tm works
+performing, copying or distributing any Project Gutenberg™ works
 unless you comply with paragraph 1.E.8 or 1.E.9.
 
 1.E.8. You may charge a reasonable fee for copies of or providing
-access to or distributing Project Gutenberg-tm electronic works
-provided that
+access to or distributing Project Gutenberg™ electronic works
+provided that:
 
-* You pay a royalty fee of 20% of the gross profits you derive from
-  the use of Project Gutenberg-tm works calculated using the method
+• You pay a royalty fee of 20% of the gross profits you derive from
+  the use of Project Gutenberg™ works calculated using the method
   you already use to calculate your applicable taxes. The fee is owed
-  to the owner of the Project Gutenberg-tm trademark, but he has
+  to the owner of the Project Gutenberg™ trademark, but he has
   agreed to donate royalties under this paragraph to the Project
   Gutenberg Literary Archive Foundation. Royalty payments must be paid
   within 60 days following each date on which you prepare (or are
   legally required to prepare) your periodic tax returns. Royalty
   payments should be clearly marked as such and sent to the Project
   Gutenberg Literary Archive Foundation at the address specified in
-  Section 4, "Information about donations to the Project Gutenberg
-  Literary Archive Foundation."
+  Section 4, “Information about donations to the Project Gutenberg
+  Literary Archive Foundation.”
 
-* You provide a full refund of any money paid by a user who notifies
+• You provide a full refund of any money paid by a user who notifies
   you in writing (or by e-mail) within 30 days of receipt that s/he
-  does not agree to the terms of the full Project Gutenberg-tm
+  does not agree to the terms of the full Project Gutenberg™
   License. You must require such a user to return or destroy all
   copies of the works possessed in a physical medium and discontinue
-  all use of and all access to other copies of Project Gutenberg-tm
+  all use of and all access to other copies of Project Gutenberg™
   works.
 
-* You provide, in accordance with paragraph 1.F.3, a full refund of
+• You provide, in accordance with paragraph 1.F.3, a full refund of
   any money paid for a work or a replacement copy, if a defect in the
   electronic work is discovered and reported to you within 90 days of
   receipt of the work.
 
-* You comply with all other terms of this agreement for free
-  distribution of Project Gutenberg-tm works.
+• You comply with all other terms of this agreement for free
+  distribution of Project Gutenberg™ works.
 
 1.E.9. If you wish to charge a fee or distribute a Project
-Gutenberg-tm electronic work or group of works on different terms than
+Gutenberg™ electronic work or group of works on different terms than
 are set forth in this agreement, you must obtain permission in writing
-from both the Project Gutenberg Literary Archive Foundation and The
-Project Gutenberg Trademark LLC, the owner of the Project Gutenberg-tm
-trademark. Contact the Foundation as set forth in Section 3 below.
+from the Project Gutenberg Literary Archive Foundation, the manager of
+the Project Gutenberg™ trademark. Contact the Foundation as set
+forth in Section 3 below.
 
 1.F.
 
 1.F.1. Project Gutenberg volunteers and employees expend considerable
 effort to identify, do copyright research on, transcribe and proofread
 works not protected by U.S. copyright law in creating the Project
-Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
+Gutenberg™ collection. Despite these efforts, Project Gutenberg™
 electronic works, and the medium on which they may be stored, may
-contain "Defects," such as, but not limited to, incomplete, inaccurate
+contain “Defects,” such as, but not limited to, incomplete, inaccurate
 or corrupt data, transcription errors, a copyright or other
 intellectual property infringement, a defective or damaged disk or
 other medium, a computer virus, or computer codes that damage or
 cannot be read by your equipment.
 
-1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
-of Replacement or Refund" described in paragraph 1.F.3, the Project
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the “Right
+of Replacement or Refund” described in paragraph 1.F.3, the Project
 Gutenberg Literary Archive Foundation, the owner of the Project
-Gutenberg-tm trademark, and any other party distributing a Project
-Gutenberg-tm electronic work under this agreement, disclaim all
+Gutenberg™ trademark, and any other party distributing a Project
+Gutenberg™ electronic work under this agreement, disclaim all
 liability to you for damages, costs and expenses, including legal
 fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
 LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
@@ -8986,7 +8952,7 @@ the second copy is also defective, you may demand a refund in writing
 without further opportunities to fix the problem.
 
 1.F.4. Except for the limited right of replacement or refund set forth
-in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
+in paragraph 1.F.3, this work is provided to you “AS-IS”, WITH NO
 OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
 LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
 
@@ -9001,39 +8967,39 @@ remaining provisions.
 
 1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
 trademark owner, any agent or employee of the Foundation, anyone
-providing copies of Project Gutenberg-tm electronic works in
+providing copies of Project Gutenberg™ electronic works in
 accordance with this agreement, and any volunteers associated with the
-production, promotion and distribution of Project Gutenberg-tm
+production, promotion and distribution of Project Gutenberg™
 electronic works, harmless from all liability, costs and expenses,
 including legal fees, that arise directly or indirectly from any of
 the following which you do or cause to occur: (a) distribution of this
-or any Project Gutenberg-tm work, (b) alteration, modification, or
-additions or deletions to any Project Gutenberg-tm work, and (c) any
+or any Project Gutenberg™ work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg™ work, and (c) any
 Defect you cause.
 
-Section 2. Information about the Mission of Project Gutenberg-tm
+Section 2. Information about the Mission of Project Gutenberg™
 
-Project Gutenberg-tm is synonymous with the free distribution of
+Project Gutenberg™ is synonymous with the free distribution of
 electronic works in formats readable by the widest variety of
 computers including obsolete, old, middle-aged and new computers. It
 exists because of the efforts of hundreds of volunteers and donations
 from people in all walks of life.
 
 Volunteers and financial support to provide volunteers with the
-assistance they need are critical to reaching Project Gutenberg-tm's
-goals and ensuring that the Project Gutenberg-tm collection will
+assistance they need are critical to reaching Project Gutenberg™'s
+goals and ensuring that the Project Gutenberg™ collection will
 remain freely available for generations to come. In 2001, the Project
 Gutenberg Literary Archive Foundation was created to provide a secure
-and permanent future for Project Gutenberg-tm and future
+and permanent future for Project Gutenberg™ and future
 generations. To learn more about the Project Gutenberg Literary
 Archive Foundation and how your efforts and donations can help, see
 Sections 3 and 4 and the Foundation information page at
-www.gutenberg.org 
+www.gutenberg.org
 
-Section 3. Information about the Project Gutenberg Literary 
+Section 3. Information about the Project Gutenberg Literary
 Archive Foundation
 
-The Project Gutenberg Literary Archive Foundation is a non profit
+The Project Gutenberg Literary Archive Foundation is a non-profit
 501(c)(3) educational corporation organized under the laws of the
 state of Mississippi and granted tax exempt status by the Internal
 Revenue Service. The Foundation's EIN or federal tax identification
@@ -9041,27 +9007,18 @@ number is 64-6221541. Contributions to the Project Gutenberg Literary
 Archive Foundation are tax deductible to the full extent permitted by
 U.S. federal laws and your state's laws.
 
-The Foundation's principal office is in Fairbanks, Alaska, with the
-mailing address: PO Box 750175, Fairbanks, AK 99775, but its
-volunteers and employees are scattered throughout numerous
-locations. Its business office is located at 809 North 1500 West, Salt
-Lake City, UT 84116, (801) 596-1887. Email contact links and up to
-date contact information can be found at the Foundation's web site and
-official page at www.gutenberg.org/contact
-
-For additional contact information:
-
-    Dr. Gregory B. Newby
-    Chief Executive and Director
-    gbnewby@pglaf.org
+The Foundation's business office is located at 809 North 1500 West,
+Salt Lake City, UT 84116, (801) 596-1887. Email contact links and up
+to date contact information can be found at the Foundation's website
+and official page at www.gutenberg.org/contact
 
 Section 4. Information about Donations to the Project Gutenberg
 Literary Archive Foundation
 
-Project Gutenberg-tm depends upon and cannot survive without wide
-spread public support and donations to carry out its mission of
+Project Gutenberg™ depends upon and cannot survive without
+widespread public support and donations to carry out its mission of
 increasing the number of public domain and licensed works that can be
-freely distributed in machine readable form accessible by the widest
+freely distributed in machine-readable form accessible by the widest
 array of equipment including outdated equipment. Many small donations
 ($1 to $5,000) are particularly important to maintaining tax exempt
 status with the IRS.
@@ -9084,30 +9041,31 @@ International donations are gratefully accepted, but we cannot make
 any statements concerning tax treatment of donations received from
 outside the United States. U.S. laws alone swamp our small staff.
 
-Please check the Project Gutenberg Web pages for current donation
+Please check the Project Gutenberg web pages for current donation
 methods and addresses. Donations are accepted in a number of other
 ways including checks, online payments and credit card donations. To
 donate, please visit: www.gutenberg.org/donate
 
-Section 5. General Information About Project Gutenberg-tm electronic works.
+Section 5. General Information About Project Gutenberg™ electronic works
 
 Professor Michael S. Hart was the originator of the Project
-Gutenberg-tm concept of a library of electronic works that could be
+Gutenberg™ concept of a library of electronic works that could be
 freely shared with anyone. For forty years, he produced and
-distributed Project Gutenberg-tm eBooks with only a loose network of
+distributed Project Gutenberg™ eBooks with only a loose network of
 volunteer support.
 
-Project Gutenberg-tm eBooks are often created from several printed
+Project Gutenberg™ eBooks are often created from several printed
 editions, all of which are confirmed as not protected by copyright in
 the U.S. unless a copyright notice is included. Thus, we do not
 necessarily keep eBooks in compliance with any particular paper
 edition.
 
-Most people start at our Web site which has the main PG search
+Most people start at our website which has the main PG search
 facility: www.gutenberg.org
 
-This Web site includes information about Project Gutenberg-tm,
+This website includes information about Project Gutenberg™,
 including how to make donations to the Project Gutenberg Literary
 Archive Foundation, how to help produce our new eBooks, and how to
 subscribe to our email newsletter to hear about new eBooks.
+
 
